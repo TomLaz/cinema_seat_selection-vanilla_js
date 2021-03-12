@@ -1,0 +1,1 @@
+# cinema_seat_selection-vanilla_js
