@@ -13,9 +13,3 @@
 <li>See the total ticket price</li>
 <li>Data stored on the localstorage</li>
 </ul>
-
-<h3>Get Started</h3>
-<pre>
-git clone https://github.com/TomLaz/cinema_seat_selection-vanilla_js.git
-cd cinema_seat_selection-vanilla_js
-npm run start</pre>
